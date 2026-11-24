@@ -1,0 +1,15 @@
+{
+  "name": "mana-rage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "法力出气室 — 万智牌风格拆牌出气室（移动端 + 智能硬件）",
+  "scripts": {
+    "build": "node scripts/build-web.js",
+    "test": "node --test test/*.test.js"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/android": "^6.0.0"
+  }
+}

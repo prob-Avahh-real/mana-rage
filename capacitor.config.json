@@ -1,0 +1,9 @@
+{
+  "appId": "com.manarage.app",
+  "appName": "法力出气室",
+  "webDir": "www",
+  "android": { "allowMixedContent": true },
+  "plugins": {
+    "StatusBar": { "style": "DARK", "backgroundColor": "#0a0812" }
+  }
+}
